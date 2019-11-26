@@ -16,6 +16,9 @@ Reaction comes with a robust set of core commerce capabilities right out of the 
 Check out the full list of Reaction [features](https://www.reactioncommerce.com/features) and [release history](https://reactioncommerce.com/roadmap) for more info.
 
 
+
+
+
 # Getting started
 
 Follow the documentation to install Reaction with [Reaction Platform](https://docs.reactioncommerce.com/docs/installation-reaction-platform) for all supported operating systems.
